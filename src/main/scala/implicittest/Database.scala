@@ -1,0 +1,4 @@
+package implicittest
+
+trait Database {
+}
